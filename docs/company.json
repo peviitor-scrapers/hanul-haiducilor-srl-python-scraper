@@ -1,0 +1,15 @@
+{
+  "id": "17001078",
+  "cui": "17001078",
+  "company": "HANUL HAIDUCILOR SRL",
+  "brand": "Hanul Haiducilor",
+  "status": "activ",
+  "location": [
+    "Pitesti"
+  ],
+  "website": [],
+  "career": [
+    "https://mediere.anofm.ro/app/module/mediere/jobs"
+  ],
+  "scraperFile": "https://github.com/peviitor-scrapers/hanul-haiducilor-srl-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
