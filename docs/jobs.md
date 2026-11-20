@@ -7,7 +7,7 @@
 | CIF | 17001078 |
 | Brand | Hanul Haiducilor |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-19 |
+| LastScraped | 2026-11-20 |
 
 ## Jobs (6)
 
@@ -52,4 +52,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-19T15:45:20Z_
+_Generated at 2026-11-20T14:58:13Z_
