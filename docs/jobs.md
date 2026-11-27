@@ -7,9 +7,9 @@
 | CIF | 17001078 |
 | Brand | Hanul Haiducilor |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-26 |
+| LastScraped | 2026-11-27 |
 
-## Jobs (6)
+## Jobs (5)
 
 ### FEMEIE DE SERVICIU
 
@@ -17,12 +17,6 @@
 - **Location**: PITESTI
 - **Work Mode**: on-site
 - **Tags**: restaurante, pclm, cu-norma-intreaga, cu-durata-nedeterminata, sediu, primar-fara-studii, experienta-putina-mai-putin-de-3-ani
-- **Status**: scraped
-
-### Femeie De Serviciu
-
-- **URL**: [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-pitesti-1733391.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-pitesti-1733391.html)
-- **Location**: Piteşti
 - **Status**: scraped
 
 ### FEMEIE DE SERVICIU
@@ -52,4 +46,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-26T16:29:17Z_
+_Generated at 2026-11-27T16:14:50Z_
